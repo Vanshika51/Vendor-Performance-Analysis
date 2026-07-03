@@ -126,4 +126,4 @@ Vendor-Performance-Analysis/
 
 ## 📷 Dashboard Preview
 
-![Vendor Performance Dashboard]("C:\Users\HP\Downloads\analysis_dashboard.png")
+![Vendor Performance Dashboard]("analysis_dashboard.png")
