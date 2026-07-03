@@ -9,7 +9,7 @@ An end-to-end data analytics project developed to evaluate vendor performance an
 - Developed **17 SQL queries** to analyze vendor performance and procurement trends.
 - Built an interactive **Power BI dashboard** to visualize procurement insights and KPIs.
 
-##  Tech Stack
+##  Tools & Technologies
 
 - Python (Pandas)
 - SQL
