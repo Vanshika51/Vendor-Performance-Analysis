@@ -1,0 +1,101 @@
+Vendor_ID,Vendor_Name,Vendor_Category,City,Contact_Person,Email,Quality_Score,Delivery_Score,Communication_Score,Overall_Rating
+V001,NovaCore Supplies,Office Supplies,Delhi,Person 1,vendor1@mail.com,3.8,4.4,3.2,3.8
+V002,BluePeak Supplies,Packaging,Hyderabad,Person 2,vendor2@mail.com,4.4,4.3,3.2,4.0
+V003,Nexora Supplies,IT Equipment,Bengaluru,Person 3,vendor3@mail.com,4.5,4.7,4.2,4.5
+V004,UrbanEdge Supplies,Office Supplies,Kolkata,Person 4,vendor4@mail.com,3.2,5.0,4.6,4.3
+V005,Pinnacle Supplies,Office Supplies,Lucknow,Person 5,vendor5@mail.com,3.7,3.9,3.7,3.8
+V006,Vertex Supplies,Stationery,Delhi,Person 6,vendor6@mail.com,4.0,3.7,4.7,4.1
+V007,BrightLine Supplies,Electronics,Mumbai,Person 7,vendor7@mail.com,4.6,3.2,4.9,4.2
+V008,Horizon Supplies,IT Equipment,Hyderabad,Person 8,vendor8@mail.com,4.3,4.7,4.4,4.5
+V009,SwiftSource Supplies,Electronics,Kolkata,Person 9,vendor9@mail.com,3.9,4.5,4.9,4.4
+V010,CoreLink Supplies,IT Equipment,Kolkata,Person 10,vendor10@mail.com,3.5,4.6,4.1,4.1
+V011,AlphaNest Supplies,Stationery,Hyderabad,Person 11,vendor11@mail.com,4.0,3.9,4.5,4.1
+V012,OptiFlow Supplies,Safety Equipment,Lucknow,Person 12,vendor12@mail.com,3.5,4.7,4.7,4.3
+V013,EverPeak Supplies,Packaging,Delhi,Person 13,vendor13@mail.com,3.2,4.8,3.5,3.8
+V014,FusionGrid Supplies,Furniture,Jaipur,Person 14,vendor14@mail.com,3.9,4.2,3.8,4.0
+V015,TerraNova Supplies,Industrial Tools,Chennai,Person 15,vendor15@mail.com,3.1,4.7,3.4,3.7
+V016,SkyBridge Supplies,Furniture,Hyderabad,Person 16,vendor16@mail.com,3.4,4.6,3.7,3.9
+V017,IronLeaf Supplies,Industrial Tools,Mumbai,Person 17,vendor17@mail.com,4.8,4.4,3.6,4.3
+V018,PrimeAxis Supplies,Office Supplies,Jaipur,Person 18,vendor18@mail.com,3.0,4.9,3.2,3.7
+V019,CloudVista Supplies,Office Supplies,Pune,Person 19,vendor19@mail.com,4.4,4.0,4.5,4.3
+V020,NorthWave Supplies,Industrial Tools,Lucknow,Person 20,vendor20@mail.com,4.4,4.3,4.0,4.2
+V021,NovaCore Traders,Packaging,Delhi,Person 21,vendor21@mail.com,4.6,3.2,3.4,3.7
+V022,BluePeak Traders,Safety Equipment,Kolkata,Person 22,vendor22@mail.com,4.4,3.6,4.2,4.1
+V023,Nexora Traders,Office Supplies,Jaipur,Person 23,vendor23@mail.com,3.9,4.1,3.9,4.0
+V024,UrbanEdge Traders,Office Supplies,Kolkata,Person 24,vendor24@mail.com,4.5,3.7,4.4,4.2
+V025,Pinnacle Traders,Packaging,Lucknow,Person 25,vendor25@mail.com,3.5,3.5,3.2,3.4
+V026,Vertex Traders,Industrial Tools,Lucknow,Person 26,vendor26@mail.com,3.4,3.2,4.1,3.6
+V027,BrightLine Traders,IT Equipment,Mumbai,Person 27,vendor27@mail.com,4.5,3.4,3.4,3.8
+V028,Horizon Traders,Electronics,Hyderabad,Person 28,vendor28@mail.com,4.0,4.4,5.0,4.5
+V029,SwiftSource Traders,Packaging,Mumbai,Person 29,vendor29@mail.com,4.0,3.6,3.2,3.6
+V030,CoreLink Traders,IT Equipment,Mumbai,Person 30,vendor30@mail.com,3.4,3.5,3.4,3.4
+V031,AlphaNest Traders,Stationery,Chennai,Person 31,vendor31@mail.com,3.0,4.1,3.5,3.5
+V032,OptiFlow Traders,Safety Equipment,Pune,Person 32,vendor32@mail.com,4.9,4.1,4.4,4.5
+V033,EverPeak Traders,Furniture,Pune,Person 33,vendor33@mail.com,3.3,4.7,4.0,4.0
+V034,FusionGrid Traders,Industrial Tools,Hyderabad,Person 34,vendor34@mail.com,4.7,4.1,3.9,4.2
+V035,TerraNova Traders,Packaging,Mumbai,Person 35,vendor35@mail.com,3.9,3.4,3.1,3.5
+V036,SkyBridge Traders,Furniture,Kolkata,Person 36,vendor36@mail.com,4.9,4.0,4.6,4.5
+V037,IronLeaf Traders,IT Equipment,Bengaluru,Person 37,vendor37@mail.com,3.8,3.1,4.3,3.7
+V038,PrimeAxis Traders,Safety Equipment,Jaipur,Person 38,vendor38@mail.com,3.1,3.3,4.1,3.5
+V039,CloudVista Traders,Packaging,Kolkata,Person 39,vendor39@mail.com,3.6,5.0,3.2,3.9
+V040,NorthWave Traders,IT Equipment,Pune,Person 40,vendor40@mail.com,4.5,4.2,4.6,4.4
+V041,NovaCore Solutions,Electronics,Hyderabad,Person 41,vendor41@mail.com,3.5,4.0,3.9,3.8
+V042,BluePeak Solutions,Electronics,Pune,Person 42,vendor42@mail.com,3.9,4.7,5.0,4.5
+V043,Nexora Solutions,Stationery,Chennai,Person 43,vendor43@mail.com,3.6,4.2,4.2,4.0
+V044,UrbanEdge Solutions,Office Supplies,Hyderabad,Person 44,vendor44@mail.com,4.5,4.9,3.4,4.3
+V045,Pinnacle Solutions,Industrial Tools,Hyderabad,Person 45,vendor45@mail.com,3.4,4.3,3.3,3.7
+V046,Vertex Solutions,Safety Equipment,Jaipur,Person 46,vendor46@mail.com,3.3,3.2,3.0,3.2
+V047,BrightLine Solutions,Safety Equipment,Bengaluru,Person 47,vendor47@mail.com,3.9,4.2,3.6,3.9
+V048,Horizon Solutions,Packaging,Bengaluru,Person 48,vendor48@mail.com,3.5,4.4,4.4,4.1
+V049,SwiftSource Solutions,IT Equipment,Kolkata,Person 49,vendor49@mail.com,3.9,4.4,4.8,4.4
+V050,CoreLink Solutions,Packaging,Lucknow,Person 50,vendor50@mail.com,4.6,4.3,4.3,4.4
+V051,AlphaNest Solutions,Stationery,Lucknow,Person 51,vendor51@mail.com,4.9,3.9,4.1,4.3
+V052,OptiFlow Solutions,Stationery,Pune,Person 52,vendor52@mail.com,4.3,4.8,4.7,4.6
+V053,EverPeak Solutions,IT Equipment,Bengaluru,Person 53,vendor53@mail.com,3.1,3.3,3.6,3.3
+V054,FusionGrid Solutions,Safety Equipment,Mumbai,Person 54,vendor54@mail.com,4.5,4.1,3.6,4.1
+V055,TerraNova Solutions,Electronics,Mumbai,Person 55,vendor55@mail.com,3.2,4.4,4.4,4.0
+V056,SkyBridge Solutions,Furniture,Bengaluru,Person 56,vendor56@mail.com,4.9,4.0,4.0,4.3
+V057,IronLeaf Solutions,Stationery,Lucknow,Person 57,vendor57@mail.com,3.2,3.1,3.9,3.4
+V058,PrimeAxis Solutions,Office Supplies,Jaipur,Person 58,vendor58@mail.com,3.6,3.5,3.2,3.4
+V059,CloudVista Solutions,Stationery,Lucknow,Person 59,vendor59@mail.com,4.9,4.7,4.2,4.6
+V060,NorthWave Solutions,Safety Equipment,Kolkata,Person 60,vendor60@mail.com,4.9,5.0,4.3,4.7
+V061,NovaCore Enterprises,Packaging,Kolkata,Person 61,vendor61@mail.com,3.5,3.1,4.5,3.7
+V062,BluePeak Enterprises,Electronics,Mumbai,Person 62,vendor62@mail.com,3.9,4.3,4.8,4.3
+V063,Nexora Enterprises,Packaging,Pune,Person 63,vendor63@mail.com,3.4,4.2,4.3,4.0
+V064,UrbanEdge Enterprises,Office Supplies,Chennai,Person 64,vendor64@mail.com,4.0,3.2,3.7,3.6
+V065,Pinnacle Enterprises,Stationery,Bengaluru,Person 65,vendor65@mail.com,3.7,4.3,4.7,4.2
+V066,Vertex Enterprises,Safety Equipment,Delhi,Person 66,vendor66@mail.com,3.7,4.4,3.6,3.9
+V067,BrightLine Enterprises,Packaging,Kolkata,Person 67,vendor67@mail.com,4.9,4.6,4.1,4.5
+V068,Horizon Enterprises,Furniture,Kolkata,Person 68,vendor68@mail.com,3.9,3.6,3.6,3.7
+V069,SwiftSource Enterprises,Office Supplies,Chennai,Person 69,vendor69@mail.com,4.9,3.8,4.0,4.2
+V070,CoreLink Enterprises,IT Equipment,Bengaluru,Person 70,vendor70@mail.com,5.0,4.3,4.1,4.5
+V071,AlphaNest Enterprises,Industrial Tools,Bengaluru,Person 71,vendor71@mail.com,3.8,3.4,3.7,3.6
+V072,OptiFlow Enterprises,Electronics,Lucknow,Person 72,vendor72@mail.com,4.5,4.3,4.5,4.4
+V073,EverPeak Enterprises,Industrial Tools,Ahmedabad,Person 73,vendor73@mail.com,3.4,4.1,4.9,4.1
+V074,FusionGrid Enterprises,Electronics,Mumbai,Person 74,vendor74@mail.com,3.9,4.4,3.2,3.8
+V075,TerraNova Enterprises,Industrial Tools,Chennai,Person 75,vendor75@mail.com,4.9,4.2,3.5,4.2
+V076,SkyBridge Enterprises,IT Equipment,Delhi,Person 76,vendor76@mail.com,3.3,4.1,4.1,3.8
+V077,IronLeaf Enterprises,IT Equipment,Lucknow,Person 77,vendor77@mail.com,3.2,5.0,4.8,4.3
+V078,PrimeAxis Enterprises,Office Supplies,Mumbai,Person 78,vendor78@mail.com,3.9,3.2,4.7,3.9
+V079,CloudVista Enterprises,Safety Equipment,Mumbai,Person 79,vendor79@mail.com,4.0,4.4,4.0,4.1
+V080,NorthWave Enterprises,Furniture,Bengaluru,Person 80,vendor80@mail.com,3.5,4.7,5.0,4.4
+V081,NovaCore Industrial,Safety Equipment,Kolkata,Person 81,vendor81@mail.com,3.5,4.1,3.8,3.8
+V082,BluePeak Industrial,Furniture,Chennai,Person 82,vendor82@mail.com,4.8,4.0,4.8,4.5
+V083,Nexora Industrial,Stationery,Hyderabad,Person 83,vendor83@mail.com,4.7,3.6,4.6,4.3
+V084,UrbanEdge Industrial,IT Equipment,Chennai,Person 84,vendor84@mail.com,3.8,4.9,4.0,4.2
+V085,Pinnacle Industrial,Stationery,Pune,Person 85,vendor85@mail.com,4.6,3.6,3.6,3.9
+V086,Vertex Industrial,Safety Equipment,Kolkata,Person 86,vendor86@mail.com,4.2,5.0,4.0,4.4
+V087,BrightLine Industrial,Safety Equipment,Mumbai,Person 87,vendor87@mail.com,3.3,4.1,3.7,3.7
+V088,Horizon Industrial,IT Equipment,Hyderabad,Person 88,vendor88@mail.com,4.1,4.1,3.9,4.0
+V089,SwiftSource Industrial,Office Supplies,Pune,Person 89,vendor89@mail.com,3.6,3.4,4.4,3.8
+V090,CoreLink Industrial,Electronics,Lucknow,Person 90,vendor90@mail.com,4.1,3.5,4.6,4.1
+V091,AlphaNest Industrial,IT Equipment,Lucknow,Person 91,vendor91@mail.com,3.1,4.5,4.4,4.0
+V092,OptiFlow Industrial,IT Equipment,Delhi,Person 92,vendor92@mail.com,4.6,3.8,4.3,4.2
+V093,EverPeak Industrial,Office Supplies,Delhi,Person 93,vendor93@mail.com,4.6,5.0,4.0,4.5
+V094,FusionGrid Industrial,IT Equipment,Mumbai,Person 94,vendor94@mail.com,3.1,4.0,4.2,3.8
+V095,TerraNova Industrial,Electronics,Pune,Person 95,vendor95@mail.com,4.7,4.7,3.9,4.4
+V096,SkyBridge Industrial,Office Supplies,Kolkata,Person 96,vendor96@mail.com,4.1,3.9,4.4,4.1
+V097,IronLeaf Industrial,IT Equipment,Chennai,Person 97,vendor97@mail.com,3.8,4.3,3.3,3.8
+V098,PrimeAxis Industrial,Safety Equipment,Hyderabad,Person 98,vendor98@mail.com,3.9,4.9,3.7,4.2
+V099,CloudVista Industrial,Furniture,Lucknow,Person 99,vendor99@mail.com,4.4,4.3,4.7,4.5
+V100,NorthWave Industrial,Safety Equipment,Hyderabad,Person 100,vendor100@mail.com,4.7,4.7,3.8,4.4
