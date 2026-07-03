@@ -51,6 +51,18 @@ The project uses two custom datasets.
 - Converted date columns to datetime format
 - Verified data types
 
+## SQL Concepts Used
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- AGGREGATE FUNCTIONS (COUNT, SUM, AVG)
+- JOINS (INNER JOIN)
+- ALIAS (AS)
+- ROUND()
+- LIMIT
+
 ##  SQL Analysis
 
 - Total Vendors
@@ -71,7 +83,7 @@ The project uses two custom datasets.
 
 The dashboard includes:
 
-- KPI Cards
+- Cards
 - Total Vendors
 - Total Purchases
 - Total Purchase Value
@@ -83,6 +95,10 @@ The dashboard includes:
 - Top Vendors Analysis
 - Interactive Slicers
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard]("analysis_dashboard.png")
+
+##  Author
+
+**Vanshika Tanwar**
