@@ -97,8 +97,4 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard]("analysis_dashboard.png")
-
-##  Author
-
-**Vanshika Tanwar**
+![Dashboard](analysis_dashboard.png)
